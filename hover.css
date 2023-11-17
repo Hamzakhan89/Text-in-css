@@ -1,0 +1,14 @@
+
+div{
+    height: 30px;
+    background-color: black;
+    display: inline-block;
+    
+}
+a{
+    padding-right: 50px; 
+}
+
+a:hover{
+background-color:yellowgreen
+}

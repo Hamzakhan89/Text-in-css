@@ -1,0 +1,9 @@
+ @font-face {
+    font-family: 'HAMZa';
+    src: url(./fontface/Yellowtail-Regular.ttf);
+} 
+h1{
+    font-family: 'HAMZa';
+}
+
+

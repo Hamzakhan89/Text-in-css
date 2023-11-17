@@ -1,0 +1,10 @@
+/* button{
+    background-color: gold;
+    color: black;
+} */
+input:focus{
+    background-color: lightcoral;
+}
+button:focus{
+    background-color: lightcoral;
+}
